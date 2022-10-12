@@ -21,7 +21,7 @@ table{
 }
 
 td{
-  border: 3px solid gray;
+  border: 3px solid black;
   font-family:'Times New Roman', Times, serif;
   text-align: center;
   color: black;
@@ -29,10 +29,10 @@ td{
 }
 
 th{
-  border: 3px solid gray;
+  border: 3px solid black;
   font-family:'Times New Roman', Times, serif;
   text-align: center;
   color: black;
-  background-color: silver;
+  background-color: white;
   font-weight: bold;
 }
