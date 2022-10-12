@@ -2,13 +2,13 @@ body{
   background-image: url("images/galaxy.tiff");
   background-size: cover;
   background-repeat: no-repeat;
-  text-align: center;
 }
 
  h1{
   font-family: Helvetica, Sans-Serif;
   color: white;
   font-weight: bold;
+  text-align: center;
 }
 
 table{
